@@ -14,3 +14,8 @@ Python and an embedded php script to rank your name on Google
   1. With the input information for the site and keywords, it uses modified version of pygoogle.py.
   2. The pygoogle.py is based on Google AJAX Search Module.
   3. After all the process, the page.py returns the url and the rank to the p.php.
+  
+
+# KLienberg Algorithm
+
+  
